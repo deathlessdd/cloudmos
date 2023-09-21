@@ -506,6 +506,41 @@
         "value": true
       },
       {
+        "key": "capabilities/gpu/vendor/nvidia/model/4060",
+        "description": "Nvidia rtx-4060",
+        "value": true
+      },
+      {
+        "key": "capabilities/gpu/vendor/nvidia/model/4060ti",
+        "description": "Nvidia rtx-4060-ti",
+        "value": true
+      },
+      {
+        "key": "capabilities/gpu/vendor/nvidia/model/4070",
+        "description": "Nvidia rtx-4070",
+        "value": true
+      },
+      {
+        "key": "capabilities/gpu/vendor/nvidia/model/4070ti",
+        "description": "Nvidia rtx-4070-ti",
+        "value": true
+      },
+      {
+        "key": "capabilities/gpu/vendor/nvidia/model/4080",
+        "description": "Nvidia rtx-4080",
+        "value": true
+      },
+      {
+        "key": "capabilities/gpu/vendor/nvidia/model/4080ti",
+        "description": "Nvidia rtx-4080-ti",
+        "value": true
+      },
+      {
+        "key": "capabilities/gpu/vendor/nvidia/model/4090",
+        "description": "Nvidia rtx-4090",
+        "value": true
+      },
+      {
         "key": "capabilities/gpu/vendor/nvidia/model/3050",
         "description": "Nvidia rtx-3050",
         "value": true
